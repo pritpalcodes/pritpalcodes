@@ -3,6 +3,7 @@ Hi, I’m Pritpal👋<br>A Computer Science Student & a Data Enthusiast!<br>• 
 
 <img src="https://raw.githubusercontent.com/pritpalcodes/pritpalcodes/output/snake.svg" alt="Snake animation" />
 
+###
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oye-pritpal/) 
