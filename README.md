@@ -1,16 +1,21 @@
-<div align="center">
-  
-# Hi, I’m Pritpal👋
 
-</div>
+<h1 >
+  Hi I am Pritpal
+  <br> 
+ <a href="https://git.io/typing-svg">
+ 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+professional+procrastinator;+I+am+a+meme+mongerer;+I+am+a+coffee-fueled+coding+machine;+I+am+the+king+of+last-minute+submissions;+I+am+an+aspiring+nap+enthusiast;+I+am+a+Netflix+binger+with+a+side+of+coding;+I+am+a+data+wizard+in+training;+I+am+a+Python+whisperer;+I+am+a+debugging+ninja;+I+am+a+tech-savvy+pun+master;&center=true&size=30">
+</a>
 
-A Computer Science Student & a Data Enthusiast!
+</h1>
 
-- Currently in 4th year, pursuing a B.Tech in Information Technology from JIIT Noida 🎓
+<br>
+<p align="center" style="margin: 0; line-height: 1.5;">
+  A Computer Science Student & a Data Enthusiast!<br>
+  Currently in 4th year, pursuing a B.Tech in Information Technology from <a href="https://www.jiit.ac.in/">JIIT Noida.</a> 🎓<br>
+  I can type 150 words a minute, but my girlfriend complains that I don’t reply to her fast enough 😅  
+</p>
 
-- Semifinalist at Adobe GenSolve AI Challenge 2024 🏆
-
-- I can type 150 words a minute, but my girlfriend complains that I don’t reply to her fast enough 😅
 
 <div align="center">
   
