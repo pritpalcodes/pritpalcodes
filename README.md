@@ -4,7 +4,7 @@
   <br> 
  <a href="https://git.io/typing-svg">
  
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+professional+procrastinator;+a+meme+mongerer; +A+coffee-fueled+coding+machine;+I+am+the+king+of+last-minute+submissions;+I+am+a+data+wizard+in+training;+I+am+a+Python+whisperer;&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+professional+procrastinator;+a+meme+mongerer;+a+coffee-fueled+coding+machine;+I+am+the+king+of+last-minute+submissions;+I+am+a+data+wizard+in+training;+I+am+a+Python+whisperer;&center=true&size=30">
 </a>
 
 </h1>
